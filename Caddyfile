@@ -1,0 +1,4 @@
+<ضع-IP-خادمك-هنا>.sslip.io {
+    reverse_proxy 127.0.0.1:8080
+    encode gzip
+}
